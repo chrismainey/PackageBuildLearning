@@ -1,0 +1,15 @@
+Package: PackageBuildLearning
+Type: Package
+Title: Learning package builds with R studio and roxygen.  Just using wrappers for known functions at the moment.
+Version: 0.1.0
+Author: Chris Mainey
+Maintainer: Chris Mainey <chrismainey@gmail.com>
+Description: Learning to build packages using Rstudio, roxygen and github.
+    Just using wrappers for known function to learn import export etc.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 6.1.1
+Imports: 
+    arm
