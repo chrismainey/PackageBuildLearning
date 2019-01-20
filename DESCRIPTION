@@ -1,6 +1,6 @@
 Package: PackageBuildLearning
 Type: Package
-Title: Learning package builds with R studio and roxygen.  Just using wrappers for known functions at the moment.
+Title: Learning package builds with R studio and roxygen.  Just using wrappers for known functions at the moment
 Version: 0.1.0
 Author: Chris Mainey
 Maintainer: Chris Mainey <chrismainey@gmail.com>

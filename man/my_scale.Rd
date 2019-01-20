@@ -16,5 +16,6 @@ vector of scaled inputs
 A wrapper for the rescale function from the \code{arm} package.  This mean centres the data and devides by 2*standard deviation.
 }
 \examples{
+x<-rnorm(10, 50, 20)
 my_scale(x)
 }
